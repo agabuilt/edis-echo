@@ -1,0 +1,12 @@
+<svg width="220" height="220" viewBox="0 0 220 220" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Privacy shield</title>
+  <desc id="desc">A shield with a lock inside it.</desc>
+  <rect width="220" height="220" rx="44" fill="#E7F0EF"/>
+  <path d="M110 28L167 49V99C167 138 144 173 110 190C76 173 53 138 53 99V49L110 28Z" fill="#0D6B72"/>
+  <path d="M110 45L152 61V99C152 130 135 156 110 171C85 156 68 130 68 99V61L110 45Z" fill="#F8FCFC" fill-opacity=".92"/>
+  <path d="M86 99C86 92.37 91.37 87 98 87H122C128.63 87 134 92.37 134 99V132C134 138.63 128.63 144 122 144H98C91.37 144 86 138.63 86 132V99Z" fill="#0D6B72"/>
+  <path d="M96 87V76C96 68.27 102.27 62 110 62C117.73 62 124 68.27 124 76V87" stroke="#0D6B72" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="110" cy="115" r="7" fill="#F7C563"/>
+  <path d="M110 121V132" stroke="#F7C563" stroke-width="6" stroke-linecap="round"/>
+  <path d="M54 178C77 196 108 202 137 193" stroke="#C58B24" stroke-width="8" stroke-linecap="round"/>
+</svg>
