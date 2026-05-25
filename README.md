@@ -1,12 +1,12 @@
-# Edis Echo Privacy Policy Website
+# Gemini Live Test Privacy Policy Website
 
-This is a simple static website for the Edis Echo Apple App Store privacy policy. It is ready for GitHub Pages and does not need a build step.
+This is a simple static website for the Gemini Live Test Apple App Store privacy policy. It is ready for GitHub Pages and does not need a build step.
 
 ## Edit Before Publishing
 
 Open `index.html` and replace or confirm:
 
-- `Edis Echo` if the final App Store app name changes
+- `Gemini Live Test` if the final App Store app name changes
 - Any app permissions or third-party services that change before release
 - Whether AI search is fully on-device or uses an external AI service
 
